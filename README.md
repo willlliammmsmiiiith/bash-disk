@@ -6,3 +6,5 @@ Check filesystem percentage limits in Bash.
 Clone this project and look at the source files:
 - `disk.sh`
 - `alert.sh`
+
+*Initialized by willlliammmsmiiiith workspace automation.*
